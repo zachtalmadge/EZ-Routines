@@ -1,0 +1,7 @@
+.jumbotron {
+    height: 80vh;
+    background-image: url('../../../public/images/belt.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center
+}
